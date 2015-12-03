@@ -1,2 +1,1 @@
-# gitAssignment
-simple git assignment
+This is git assignment by Awadhesh Prasad.
